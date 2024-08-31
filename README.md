@@ -31,4 +31,4 @@ Average completion time: 10-15 minutes (15 levels in total)
 
 ## Created by Chase Peterson for Ludum Dare 41 on his 16th Birthday
 
-Play on [itch.io](https://chaseplays.itch.io/dimmer)
+Play on [itch.io](https://chaseplays.itch.io/the-matter-at-hand)
